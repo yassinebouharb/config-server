@@ -6,8 +6,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/yassinebouharb/config-server
-          default-label: master
+          uri: https://github.com/yassinebouharb/config
+          default-label: main
           clone-on-start: true
           username: yassine.bouharb@esprit.tn
           password: sagemcom66
